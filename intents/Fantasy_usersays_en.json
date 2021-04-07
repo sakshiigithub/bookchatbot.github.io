@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c5f5745d-c805-4b21-9f0d-05a53978ef58",
+    "data": [
+      {
+        "text": "Fantasy books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c066098-7f1b-480d-b281-e3b6db79d92f",
+    "data": [
+      {
+        "text": "I wanna read some fantasy books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

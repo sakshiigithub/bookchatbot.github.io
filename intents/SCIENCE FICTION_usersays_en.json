@@ -1,0 +1,80 @@
+[
+  {
+    "id": "fae07321-d934-4c17-a869-cb769273a5eb",
+    "data": [
+      {
+        "text": "Sci-Fi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4d3be47-d48d-449d-8e4b-19ed49ff9692",
+    "data": [
+      {
+        "text": "Science Fiction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d323124-5bf7-4db2-9c7b-3e87b2e8d070",
+    "data": [
+      {
+        "text": "I want to read some science fiction novels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8b26f7c-13b2-44c9-94aa-d48d5d09be12",
+    "data": [
+      {
+        "text": "I want to read some science fiction books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc9dcefe-b83b-4005-858f-217e78077537",
+    "data": [
+      {
+        "text": "Science fiction books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b907a46-461a-4971-9510-5d2ed20f365c",
+    "data": [
+      {
+        "text": "Sci-fi books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

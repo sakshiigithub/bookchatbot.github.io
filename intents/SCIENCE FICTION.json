@@ -1,0 +1,118 @@
+{
+  "id": "597a9aec-c443-4416-b18b-6ba18f13f4c6",
+  "name": "SCIENCE FICTION",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "Example logo",
+                  "type": "image",
+                  "rawUrl": "https://i.pinimg.com/originals/07/43/52/0743522d72b1e9acc95e892b9cc898ca.jpg"
+                },
+                {
+                  "type": "accordion",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://i.pinimg.com/originals/07/43/52/0743522d72b1e9acc95e892b9cc898ca.jpg"
+                    }
+                  },
+                  "text": "A scientist sets out to search for his missing brother along with his nephew and their mountain guide. However, they stumble upon a mysterious lost world during their journey",
+                  "title": "The Journey to the Centre of the Earth",
+                  "subtitle": "by Jules verne"
+                },
+                {
+                  "text": "Buy book",
+                  "type": "button",
+                  "link": "https://www.amazon.in/Journey-Centre-Earth-Jules-Verne/dp/8129101467",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://images-na.ssl-images-amazon.com/images/I/91E+h0WjUmL.jpg",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://images-na.ssl-images-amazon.com/images/I/91E+h0WjUmL.jpg"
+                    }
+                  },
+                  "title": "The Time Machine",
+                  "subtitle": "by H.G. Wells",
+                  "text": "The time machine is a science fiction novel by H.G.WELLS , published in 1895 and written as a frame narrative. The narrator feels differently, but the overwhelming message of the book can be construed as a warning against hubris and faith in progress. One important theme is that of class conflict.",
+                  "type": "accordion"
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Buy book",
+                  "event": {
+                    "name": "",
+                    "languageCode": "",
+                    "parameters": {}
+                  },
+                  "link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

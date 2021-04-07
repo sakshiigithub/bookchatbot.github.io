@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c3d9b0c3-b79c-42b1-b672-8c221850da1f",
+    "data": [
+      {
+        "text": "Thriller books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57b7456e-b4c5-4619-a54c-11d65b802e9d",
+    "data": [
+      {
+        "text": "mystery novels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ade3277b-d32f-4fdf-8d84-c5b28494321e",
+    "data": [
+      {
+        "text": "mystery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99cda804-d7c0-4948-bdeb-cb23b8842cf1",
+    "data": [
+      {
+        "text": "Mystery books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

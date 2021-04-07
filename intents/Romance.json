@@ -1,0 +1,161 @@
+{
+  "id": "79e9f37e-3801-458e-b9bc-76677081c08f",
+  "name": "Romance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "data:image/jpeg;base64,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\u003d\u003d",
+                  "type": "image",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "subtitle": "by Jane Austen",
+                  "title": "Pride And Prejudice",
+                  "type": "accordion",
+                  "text": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work her own darling child and its vivacious heroine, Elizabeth Bennet, as delightful a creature as ever appeared in print. The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen\u0027s radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+                  "image": {
+                    "src": {
+                      "rawUrl": ""
+                    }
+                  }
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Buy book",
+                  "event": {
+                    "name": "",
+                    "languageCode": "",
+                    "parameters": {}
+                  },
+                  "link": "https://www.amazon.in/Pride-Prejudice-Jane-Austen/dp/8172344503",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572098085l/18135._SY475_.jpg",
+                  "type": "image",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "type": "accordion",
+                  "image": {
+                    "src": {
+                      "rawUrl": ""
+                    }
+                  },
+                  "text": "",
+                  "subtitle": "by Willian Shakespeare",
+                  "title": "Romeo And Juliet"
+                },
+                {
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "link": "https://www.amazon.in/s?k\u003dRomeo+and+Juliet\u0026ref\u003dnb_sb_noss",
+                  "event": {
+                    "name": "",
+                    "parameters": {},
+                    "languageCode": ""
+                  },
+                  "type": "button",
+                  "text": "Buy book"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://lh3.googleusercontent.com/proxy/uacAGC-M569XQbMOsoqRv5uVjyN7_i_qgweW17PTN-SUHF81OQULvOzLdaBP3EkPr3krkk9e7syou6lEMDMznrHKtFo7Cj4SJ0yuu3X3tMjorHfb89G5T2aL7WdH4LIflWqCIJKjUQ",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "type": "accordion",
+                  "title": "The fault in our stars",
+                  "text": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel\u0027s story is about to be completely rewritten.",
+                  "image": {
+                    "src": {
+                      "rawUrl": ""
+                    }
+                  },
+                  "subtitle": "by John Green"
+                },
+                {
+                  "event": {
+                    "languageCode": "",
+                    "parameters": {},
+                    "name": ""
+                  },
+                  "link": "https://www.amazon.in/Fault-our-Stars-John-Green/dp/0141345659",
+                  "type": "button",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "text": "Buy book"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

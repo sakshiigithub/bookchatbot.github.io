@@ -1,0 +1,161 @@
+{
+  "id": "7a121bb5-9277-40b7-bd29-65b4b3e56e9d",
+  "name": "Mystery",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "rawUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295661017l/5890.jpg",
+                  "accessibilityText": "Example logo",
+                  "type": "image"
+                },
+                {
+                  "title": "The Woman in White",
+                  "image": {
+                    "src": {
+                      "rawUrl": ""
+                    }
+                  },
+                  "text": "The Woman in White famously opens with Walter Hartright\u0027s eerie encounter on a moonlit London road. Engaged as a drawing master to the beautiful Laura Fairlie, Walter becomes embroiled in the sinister intrigues of Sir Percival Glyde and his \u0027charming\u0027 friend Count Fosco, who has a taste for white mice, vanilla bonbons, and poison. Pursuing questions of identity and insanity along the paths and corridors of English country houses and the madhouse, The Woman in White is the first and most influential of the Victorian genre that combined Gothic horror with psychological realism.",
+                  "subtitle": "Wilkie Collins",
+                  "type": "accordion"
+                },
+                {
+                  "text": "Buy book",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "event": {
+                    "languageCode": "",
+                    "parameters": {},
+                    "name": ""
+                  },
+                  "link": "https://www.amazon.in/Woman-White-Collins-Classics/dp/0007902212/ref\u003dsr_1_1?dchild\u003d1\u0026keywords\u003dThe+Woman+in+White\u0026qid\u003d1617795597\u0026sr\u003d8-1",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "text": "Just after midnight, a snowdrift stops the Orient Express in its tracks. The luxurious train is surprisingly full for the time of the year, but by the morning it is one passenger fewer. An American tycoon lies dead in his compartment, stabbed a dozen times, his door locked from the inside.",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451l/853510._SY475_.jpg"
+                    }
+                  },
+                  "title": "The murder on the Orient Express",
+                  "subtitle": "Agatha Christie",
+                  "type": "accordion"
+                },
+                {
+                  "event": {
+                    "languageCode": "",
+                    "name": "",
+                    "parameters": {}
+                  },
+                  "text": "Buy book",
+                  "link": "https://www.amazon.in/Murder-Orient-Express-Poirot-Christie/dp/0007527500/ref\u003dsr_1_2?dchild\u003d1\u0026keywords\u003dMurder+on+the+Orient+Express\u0026qid\u003d1617795663\u0026sr\u003d8-2",
+                  "type": "button",
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "accessibilityText": "Example logo",
+                  "rawUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761513l/2459785._SY475_.jpg",
+                  "type": "image"
+                },
+                {
+                  "title": "In The Woods",
+                  "text": "As dusk approaches a small Dublin suburb in the summer of 1984, mothers begin to call their children home. But on this warm evening, three children do not return from the dark and silent woods. When the police arrive, they find only one of the children. He is gripping a tree trunk in terror, wearing blood-filled sneakers and unable to recall a single detail of the previous hours.",
+                  "type": "accordion",
+                  "image": {
+                    "src": {
+                      "rawUrl": ""
+                    }
+                  },
+                  "subtitle": "Tana French"
+                },
+                {
+                  "text": "Buy book",
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  },
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "type": "button",
+                  "link": "https://www.amazon.in/Woods-Novel-Tana-French/dp/0143113496/ref\u003dsr_1_1?crid\u003d2QGXFKIBILQWQ\u0026dchild\u003d1\u0026keywords\u003din+the+woods+by+tana+french\u0026qid\u003d1617795875\u0026sprefix\u003dIn+the+Woods%2Caps%2C336\u0026sr\u003d8-1"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

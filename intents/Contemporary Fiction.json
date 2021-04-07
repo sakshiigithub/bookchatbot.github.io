@@ -1,0 +1,118 @@
+{
+  "id": "48b3459d-4fdb-4dc0-bfe8-592890ad7918",
+  "name": "Contemporary Fiction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://images-na.ssl-images-amazon.com/images/I/81IzbD2IiIL.jpg",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "type": "accordion",
+                  "text": "Khaled Hosseini identifies a number of themes that appear in The Kite Runner, but reviewers have focused on guilt and redemption.As a child, Amir fails to save Hassan in an act of cowardice and afterwards suffers from an all-consuming guilt. Even after leaving the country, moving to America, marrying, and becoming a successful writer, he is unable to forget the incident. Hassan is the all-sacrificing Christ-figure, the one who, even in death, calls Amir to redemption.Following Hassan\u0027s death at the hands of the Taliban, Amir begins to redeem himself through the rescue of Hassan\u0027s son",
+                  "title": "The Kite Runner",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://images-na.ssl-images-amazon.com/images/I/81IzbD2IiIL.jpg"
+                    }
+                  },
+                  "subtitle": "by Khaleid Hussein"
+                },
+                {
+                  "link": "https://www.amazon.in/Kite-Runner-Khaled-Hosseini/dp/1408850257",
+                  "event": {
+                    "name": "",
+                    "parameters": {},
+                    "languageCode": ""
+                  },
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Buy book",
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://i.pinimg.com/originals/96/99/bc/9699bce85c32744935963cc6d63a68bb.gif",
+                  "accessibilityText": "Example logo"
+                },
+                {
+                  "title": "Angels and demons",
+                  "text": "Angels \u0026 Demons is a 2000 bestselling mystery-thriller novel written by American author Dan Brown and published by Pocket Books and then by Corgi Books. The novel introduces the character Robert Langdon, who recurs as the protagonist of Brown\u0027s subsequent novels.",
+                  "subtitle": "by Dan brown",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://i.pinimg.com/originals/96/99/bc/9699bce85c32744935963cc6d63a68bb.gif"
+                    }
+                  },
+                  "type": "accordion"
+                },
+                {
+                  "type": "button",
+                  "link": "https://www.amazon.in/Angels-Demons-Dan-Brown/dp/0552150738",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "event": {
+                    "languageCode": "",
+                    "parameters": {},
+                    "name": ""
+                  },
+                  "text": "Buy book"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

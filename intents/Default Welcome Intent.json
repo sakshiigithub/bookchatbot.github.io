@@ -1,0 +1,41 @@
+{
+  "id": "83347ed2-c30b-4b2e-ba19-0058eb97914c",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome. I can recommend you some books, mention some famous authors and can guide you to some famous websites. How can I help you today?",
+            "Hello There. I can recommend you some books, mention some famous authors and can guide you to some famous websites. How can I be of your assistance?",
+            "Hey bro. I can recommend you some books, mention some famous authors and can guide you some famous websites. What would you like?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

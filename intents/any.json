@@ -1,0 +1,56 @@
+{
+  "id": "a2912255-5b64-44ab-9663-54d84a8f502b",
+  "name": "any",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Famous Books:",
+                  "type": "description",
+                  "text": [
+                    "Hidden in Plain Sight by Jeffry Archer",
+                    "The Russian by James Patterson",
+                    "The Kite Runner by Khaleid Hossein",
+                    "All the Light We Cannot See by Anthony Doerr",
+                    "The Lord of the Rings by JRR Tolkein"
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

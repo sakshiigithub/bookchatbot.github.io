@@ -1,0 +1,106 @@
+{
+  "id": "19741e73-fb4c-4d0c-8a2b-b652abced612",
+  "name": "Websites",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "event": {
+                    "parameters": {},
+                    "name": "",
+                    "languageCode": ""
+                  },
+                  "icon": {
+                    "type": "chevron_right",
+                    "color": "#FF9800"
+                  },
+                  "link": "https://www.goodreads.com/",
+                  "type": "button",
+                  "text": "Good Reads"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "button",
+                  "text": "Library Thing",
+                  "event": {
+                    "languageCode": "",
+                    "name": "",
+                    "parameters": {}
+                  },
+                  "link": "https://www.librarything.com/",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "link": "http://www.shelfari.com/",
+                  "text": "Shelfari",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": ""
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

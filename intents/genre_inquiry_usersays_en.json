@@ -1,0 +1,41 @@
+[
+  {
+    "id": "71114063-a286-4adb-8c67-f866722c1e7c",
+    "data": [
+      {
+        "text": "Which genre do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a6f3121-4061-4918-9eb8-b55a7fca65a3",
+    "data": [
+      {
+        "text": "famous genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35c8175b-201e-4462-b5b8-749cc1e6d0fc",
+    "data": [
+      {
+        "text": "What genre books are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
